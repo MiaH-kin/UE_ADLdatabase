@@ -7,6 +7,7 @@ Committee members: Dr. Leia Bagesteiro, Dr. Charmaygne Hughes, Dr. Kate Hamel, D
 Institution affiliation: San Francisco State University
 
 Date Created: Sep. 25th, 2021
+
 Date Updated: Dec. 29th, 2021
 
 ## Overview
@@ -48,13 +49,14 @@ In the Comb Hair Task, participant was asked to place their palm on their forehe
 
 
 ![image](https://user-images.githubusercontent.com/85710749/147704577-3f834754-d0a3-42f8-80ad-767d525b24f3.png) 
+
 Figure 3. Start position for all tasks.
 
 ## Results
 
 The current dataset includes one meta file named ADLinfo.xlsx, 41 files with the raw marker position data, and 40 files with processed data. Naming convention for all data files are as demonstrated in Table 1. The processed files contained finger velocity and calculated joint angles, including shoulder girdle elevation, shoulder flexion/extension, abduction/adduction, internal/external rotation, elbow flexion/extension, forearm supination/pronation, wrist flexion/extension, ulnar/radial deviation. The processed files' onsets and offsets were determined using 3% finger velocity, and trajectories in between were filtered using a fourth-order, low-pass Butterworth filter with a cut-off frequency of 10 Hz.  
 
-![image](https://user-images.githubusercontent.com/85710749/134787734-03e3b40d-6110-49ff-870d-c81d4fdf2a54.png)
+![image](https://user-images.githubusercontent.com/85710749/147704796-6aae3aa3-d12f-4912-8583-4ad671cb9cc0.png)
 
 ## License 
 
