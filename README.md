@@ -6,7 +6,8 @@ Committee members: Dr. Leia Bagesteiro, Dr. Charmaygne Hughes, Dr. Kate Hamel, D
 
 Institution affiliation: San Francisco State University
 
-Date: Sep. 25th, 2021
+Date Created: Sep. 25th, 2021
+Date Updated: Dec. 29th, 2021
 
 ## Overview
 
@@ -31,7 +32,7 @@ Marker model was adapted from Freitas and Scholtz (2009) with 17 individual mark
 
 Figure 1. Marker placements. 
 
-![image](https://user-images.githubusercontent.com/85710749/134787334-fc0e1197-e697-49c7-a300-619e08b213a7.png)
+![image](https://user-images.githubusercontent.com/85710749/147704485-639e8125-8112-43bc-a67d-5ae10ed0a210.png)
 
 Figure 2. Static calibration position. 
 
@@ -46,8 +47,7 @@ In the Drinking task, a non-compliant plastic cup (7cm in average diameter [bott
 In the Comb Hair Task, participant was asked to place their palm on their forehead and move hand over the top of the head down to the neck as if they were combing their hair on the researcher’s voice command (Van Andel et al., 2008). Participant started and ended the Comb Hair task with both hands on the starting position. Participant was instructed to perform ten trials (five with the left hand, and five with the right hand) as naturally as possible without moving their trunk. 
 
 
-![image](https://user-images.githubusercontent.com/85710749/134787439-a00422aa-6383-4651-922e-13b4d11632be.png)
- 
+![image](https://user-images.githubusercontent.com/85710749/147704577-3f834754-d0a3-42f8-80ad-767d525b24f3.png) 
 Figure 3. Start position for all tasks.
 
 ## Results
